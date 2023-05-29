@@ -1,0 +1,4 @@
+﻿  Test_GeometryObjects.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+  GeometryObject_Test.vcxproj -> C:\Users\user\source\repos\GeometryObject_Test\Debug\GeometryObject_Test.exe

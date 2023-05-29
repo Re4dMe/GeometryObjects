@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\GeometryObject_Test\Debug\GeometryObject_Test.vcxproj.CopyComplete
+C:\Users\user\source\repos\GeometryObject_Test\Debug\GeometryObject_Test.exe
+C:\Users\user\source\repos\GeometryObject_Test\Debug\gtestd.dll
+C:\Users\user\source\repos\GeometryObject_Test\Debug\gtest_maind.dll
+C:\Users\user\source\repos\GeometryObject_Test\Debug\gtestd.pdb
+C:\Users\user\source\repos\GeometryObject_Test\Debug\gtest_maind.pdb
